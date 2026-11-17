@@ -7,10 +7,10 @@
 **[Ver presentaciones públicas de los cinco proyectos destacados](./presentaciones/README.md)**
 
 1. [NetGestión — gestión comercial](https://github.com/EmanuelPaz05/NetGestion-Presentacion)
-2. [ISCP — sistemas para colegios secundarios](./presentaciones/iscp-secundarios.md)
-3. [Municipalidades y comunas](./presentaciones/municipios-comunas.md)
-4. [CRAF — sistema de gestión](./presentaciones/craf.md)
-5. [OptiNet — gestión para ópticas](./presentaciones/optinet.md)
+2. [ISCP — sistemas para colegios secundarios](https://github.com/EmanuelPaz05/ISCP-Presentacion)
+3. [Municipalidades y comunas](https://github.com/EmanuelPaz05/Municipios-Comunas-Presentacion)
+4. [CRAF — sistema de gestión](https://github.com/EmanuelPaz05/CRAF-Presentacion)
+5. [OptiNet — gestión para ópticas](https://github.com/EmanuelPaz05/OptiNet-Presentacion)
 
 Estos materiales presentan experiencia de **NetSol** sin publicar código privado, configuraciones ni datos de clientes.
 
