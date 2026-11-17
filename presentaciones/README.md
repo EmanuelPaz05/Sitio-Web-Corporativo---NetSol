@@ -4,13 +4,13 @@
 
 Este índice reúne **presentaciones públicas de proyectos y líneas de trabajo de NetSol**, ordenadas para mostrar experiencia profesional. No contiene código de producción, credenciales, bases de datos ni información personal de clientes.
 
-| Orden | Proyecto | Sector | Presentación |
-| --- | --- | --- | --- |
-| **1** | **NetGestión** | Comercios | [Producto comercial y presentación técnica](https://github.com/EmanuelPaz05/NetGestion-Presentacion) |
-| **2** | **ISCP · Solución para colegios secundarios** | Educación | [Presentación](./iscp-secundarios.md) |
-| **3** | **Municipalidades y comunas** | Sector público | [Presentación](./municipios-comunas.md) |
-| **4** | **CRAF** | Gestión de centro de salud | [Presentación](./craf.md) |
-| **5** | **OptiNet** | Ópticas | [Presentación](./optinet.md) |
+| Proyecto | Sector | Presentación |
+| --- | --- | --- |
+| **NetGestión** | Comercios | [Producto comercial y presentación técnica](https://github.com/EmanuelPaz05/NetGestion-Presentacion) |
+| **ISCP · Solución para colegios secundarios** | Educación | [Presentación](./iscp-secundarios.md) |
+| **Municipalidades y comunas** | Sector público | [Presentación](./municipios-comunas.md) |
+| **CRAF** | Gestión de centro de salud | [Presentación](./craf.md) |
+| **OptiNet** | Ópticas | [Presentación](./optinet.md) |
 
 ## Sobre las presentaciones
 
