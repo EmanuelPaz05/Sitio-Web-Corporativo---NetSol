@@ -1,3 +1,21 @@
+# NetSol · Soluciones tecnológicas
+
+**Software a medida, productos de gestión e infraestructura.**
+
+## Portfolio de proyectos
+
+**[Ver presentaciones públicas de los cinco proyectos destacados](./presentaciones/README.md)**
+
+1. [NetGestión — gestión comercial](https://github.com/EmanuelPaz05/NetGestion-Presentacion)
+2. [ISCP — sistemas para colegios secundarios](./presentaciones/iscp-secundarios.md)
+3. [Municipalidades y comunas](./presentaciones/municipios-comunas.md)
+4. [CRAF — sistema de gestión](./presentaciones/craf.md)
+5. [OptiNet — gestión para ópticas](./presentaciones/optinet.md)
+
+Estos materiales presentan experiencia de **NetSol** sin publicar código privado, configuraciones ni datos de clientes.
+
+---
+
 🌐 Sitio Web Corporativo - NetSol
 Página web oficial de NetSol, empresa de soluciones tecnológicas.
 
