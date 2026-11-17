@@ -9,6 +9,12 @@
 
 </div>
 
+## Entorno de prueba
+
+**[Abrir ISCP — entorno de pruebas de NetSol](https://iscp-test.netsol.ar/)**
+
+Este enlace fue proporcionado para mostrar ISCP en un entorno de pruebas. La disponibilidad, las pantallas y los módulos operativos todavía deben verificarse antes de describir funciones concretas. **No utilizar ni exhibir información real de estudiantes durante una demostración.**
+
 ## La necesidad
 
 Los colegios secundarios manejan información y procesos institucionales que requieren orden, trazabilidad y accesos adecuados. No todos trabajan igual: las herramientas tienen que adaptarse a la organización y a sus necesidades, sin imponer un circuito único.
@@ -44,7 +50,7 @@ Trabajo de desarrollo y soluciones para instituciones educativas desde **NetSol*
 - Capturas autorizadas de pantallas propias de ISCP, sin datos personales de estudiantes.
 - Módulos existentes confirmados y stack específico.
 - Flujo concreto de uso, con un ejemplo ficticio.
-- Enlace a demo pública, únicamente si existe y está autorizada.
+- Confirmar el acceso público y el uso autorizado del entorno de pruebas [iscp-test.netsol.ar](https://iscp-test.netsol.ar/).
 
 No se publica el repositorio ni información de alumnos.
 
