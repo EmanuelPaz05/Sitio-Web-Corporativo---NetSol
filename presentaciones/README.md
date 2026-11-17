@@ -7,10 +7,10 @@ Este índice reúne **presentaciones públicas de proyectos y líneas de trabajo
 | Proyecto | Sector | Presentación |
 | --- | --- | --- |
 | **NetGestión** | Comercios | [Producto comercial y presentación técnica](https://github.com/EmanuelPaz05/NetGestion-Presentacion) |
-| **ISCP · Solución para colegios secundarios** | Educación | [Presentación](./iscp-secundarios.md) |
-| **Municipalidades y comunas** | Sector público | [Presentación](./municipios-comunas.md) |
-| **CRAF** | Gestión de centro de salud | [Presentación](./craf.md) |
-| **OptiNet** | Ópticas | [Presentación](./optinet.md) |
+| **ISCP · Solución para colegios secundarios** | Educación | [Presentación](https://github.com/EmanuelPaz05/ISCP-Presentacion) |
+| **Municipalidades y comunas** | Sector público | [Presentación](https://github.com/EmanuelPaz05/Municipios-Comunas-Presentacion) |
+| **CRAF** | Gestión de centro de salud | [Presentación](https://github.com/EmanuelPaz05/CRAF-Presentacion) |
+| **OptiNet** | Ópticas | [Presentación](https://github.com/EmanuelPaz05/OptiNet-Presentacion) |
 
 ## Sobre las presentaciones
 
